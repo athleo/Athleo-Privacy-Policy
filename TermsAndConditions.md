@@ -22,7 +22,7 @@ Contents
 ## 1. Object
 These Terms and Conditions sets out all rights and obligations in relation to the use of ATHLEO application and all its related sections. These Terms and Conditions apply to all the users of the application. If you do not agree to these Terms and Conditions, please do not use the ATHLEO application. 
 
-ATHLEO is an iOS application developed and owned by PIXEL ALLIANCE SAS, an affiliate of MANTU GROUP SA, to help you gather all your info in one single place: match updates, training notes, media, contracts, and much more! Athlas allows you to easily share them with the people that matter to you. You can share all your important events and data on social media in a few quick clicks, to develop your fame quickly and engage with your fans. 
+ATHLEO is an iOS application developed and owned by PIXEL ALLIANCE SAS, an affiliate of MANTU GROUP SA, to help you gather all your info in one single place: match updates, training notes, media, contracts, and much more! Athleo allows you to easily share them with the people that matter to you. You can share all your important events and data on social media in a few quick clicks, to develop your fame quickly and engage with your fans. 
 
 <a name="definitions"/>
 ## 2. Definitions
@@ -65,7 +65,7 @@ If you have any queries please contact <contact@mantu.com>.
 <a name="personal"/>
 ## 4. Personal Data Protection
 
-The processing conditions of your Personal Data in the frame of the use by You of ATHLEO are defined in the [Privacy Policy](https://duchuy-13.github.io/Athlas-Privacy-Policy/).
+The processing conditions of your Personal Data in the frame of the use by You of ATHLEO are defined in the [Privacy Policy](https://athleo.github.io/Athleo-Privacy-Policy/).
 
 <a name="registration"/>
 ## 5. Registration and credentials
@@ -93,7 +93,7 @@ Users shall keep confidential and shall not publish or otherwise disclose to any
 
 These Terms and Conditions will remain in effect as long as your Account will exist. 
 
-If your Account is deleted following the use by You of the functionality “delete my Account”, or following a twelve (12) months inactivity period (please see Athlas Privacy Policy), these Terms and Conditions will remain in effect until the deletion of your Account.
+If your Account is deleted following the use by You of the functionality “delete my Account”, or following a twelve (12) months inactivity period (please see Athleo Privacy Policy), these Terms and Conditions will remain in effect until the deletion of your Account.
 
 <a name="liability"/>
 ## 9. Liability
