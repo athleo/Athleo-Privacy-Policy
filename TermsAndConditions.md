@@ -43,7 +43,7 @@ ATHLEO is an iOS application developed and owned by PIXEL ALLIANCE SAS, an affil
 
  “Personal data processing”: any operation or set of operations performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation.
 
-“Privacy Policy”: put the link of the Privacy Policy.
+“Privacy Policy”: <https://athleo.github.io/Athleo-Privacy-Policy/>.
 
 “Terms and Conditions”: the present terms and conditions as well as the Privacy Policy, which both apply to all users. 
 
